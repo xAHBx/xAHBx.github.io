@@ -10,7 +10,7 @@ Dopamine Rootless & RootHide Repository
 
 ## Repository URL
 
-https://xAHBx.github.io/repo/
+https://xahbx.github.io/
 
 ## Compatibility
 
